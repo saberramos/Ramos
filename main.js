@@ -2,7 +2,7 @@
 function createMap(){
 
     //Varibles needed for running the funcation
-    var mbAttr = '<a href="http://openstreetmap.org">OpenStreetMap</a>' ;
+    var mbAttr = '<a href="http://openstreetmap.org">OpenStreetMap</a> |' +' <a href="http://mapbox.com">Mapbox</a> | <a href="https://saberramos.github.io/">Ramos</a>';
     
     var apitoken = 'pk.eyJ1Ijoic2FiZXJyYW1vcyIsImEiOiJja3Z0d2w3Z2c4ZWdwMnFtc3JqaDlpdmRiIn0.45VKxB2sqN35oJMkZiCPyQ' //Enter your API Token - go to 'https://www.mapbox.com/install/' to yours */
     
